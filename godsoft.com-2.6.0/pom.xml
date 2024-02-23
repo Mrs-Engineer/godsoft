@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<spring.maven.artifact.version>3.0.5.RELEASE</spring.maven.artifact.version>
+		<spring.maven.artifact.version>5.3.32</spring.maven.artifact.version>
 	</properties>
 
 	<repositories>
@@ -297,7 +297,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
-			<version>2.0.4</version>
+			<version>5.8.10</version>
 		</dependency>
 
 		<dependency>
